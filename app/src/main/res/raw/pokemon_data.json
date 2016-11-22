@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "id": "001",
+      "name": {
+        "pt_BR": "Bulbassauro",
+        "en_US": "Bulbasaur",
+        "default": "Bulbasaur"
+      },
+      "hp": 10.0,
+      "cp": 4.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "002",
+      "name": {
+        "pt_BR": "Ivysauro",
+        "en_US": "Ivysaur",
+        "default": "Ivysauro"
+      },
+      "hp": 28.0,
+      "cp": 6.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "003",
+      "name": {
+        "pt_BR": "Venolsauro",
+        "en_US": "Venosaur",
+        "default": "Venolsauro"
+      },
+      "hp": 40.0,
+      "cp": 7.0,
+      "ev": 0.0
+    },
+
+
+    {
+      "id": "004",
+      "name": {
+        "pt_BR": "charmander",
+        "en_US": "Charmander",
+        "default": "Charmander"
+      },
+      "hp": 10.0,
+      "cp": 4.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "005",
+      "name": {
+        "pt_BR": "Charmilion",
+        "en_US": "Charmeleon",
+        "default": "Charmilion"
+      },
+      "hp": 28.0,
+      "cp": 6.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "006",
+      "name": {
+        "pt_BR": "Charizard",
+        "en_US": "Charizard",
+        "default": "Charizard"
+      },
+      "hp": 40.0,
+      "cp": 7.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "007",
+      "name": {
+        "pt_BR": "Squirtle",
+        "en_US": "Squirtle",
+        "default": "Squirtle"
+      },
+      "hp": 10.0,
+      "cp": 4.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "008",
+      "name": {
+        "pt_BR": "Wartortle",
+        "en_US": "Wartortle",
+        "default": "Wartortle"
+      },
+      "hp": 28.0,
+      "cp": 6.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "009",
+      "name": {
+        "pt_BR": "Blastoise",
+        "en_US": "Blastoise",
+        "default": "Blastoise"
+      },
+      "hp": 40.0,
+      "cp": 7.0,
+      "ev": 0.0
+    },{
+      "id": "010",
+      "name": {
+        "pt_BR": "Caterpie",
+        "en_US": "Caterpie",
+        "default": "Caterpie"
+      },
+      "hp": 6.0,
+      "cp": 1.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "011",
+      "name": {
+        "pt_BR": "Metapod",
+        "en_US": "Metapod",
+        "default": "Metapod"
+      },
+      "hp": 15.0,
+      "cp": 3.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "012",
+      "name": {
+        "pt_BR": "Butterfree ",
+        "en_US": "Butterfree",
+        "default": "Butterfree"
+      },
+      "hp": 24.0,
+      "cp": 5.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "025",
+      "name": {
+        "pt_BR": "Pikachu",
+        "en_US": "Pikachu",
+        "default": "Pikachu"
+      },
+      "hp": 6.0,
+      "cp": 3.0,
+      "ev": 0.0
+    },
+
+    {
+      "id": "026",
+      "name": {
+        "pt_BR": "Raichu ",
+        "en_US": "Raichu",
+        "default": "Raichu"
+      },
+      "hp": 28.0,
+      "cp": 5.0,
+      "ev": 0.0
+    }
+
+  ]
+}

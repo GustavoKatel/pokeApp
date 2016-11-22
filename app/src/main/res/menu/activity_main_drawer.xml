@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/drawer_user_pokemons"
+            android:icon="@drawable/dr_pokeball_bw"
+            android:title="@string/my_pokemons" />
+        <item
+            android:id="@+id/drawer_greenfield"
+            android:icon="@drawable/dr_grass_bw"
+            android:title="@string/greefield" />
+        <item
+            android:id="@+id/drawer_leaderboard"
+            android:icon="@drawable/ic_games_black_24dp"
+            android:title="@string/leaderboard" />
+        <item
+            android:id="@+id/drawer_search_player"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="@string/search_player" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
